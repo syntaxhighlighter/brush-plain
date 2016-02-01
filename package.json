@@ -1,5 +1,5 @@
 {
-  "name": "brush-plain",
+  "name": "@alexgorbatchev/brush-plain",
   "version": "4.0.0",
   "description": "plain brush module for SyntaxHighlighter.",
   "keywords": [
