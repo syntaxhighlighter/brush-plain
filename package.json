@@ -1,7 +1,7 @@
 {
   "name": "brush-plain",
   "version": "4.0.0",
-  "description": "foo brush module for SyntaxHighlighter.",
+  "description": "Plain text brush module for SyntaxHighlighter.",
   "keywords": [
     "syntaxhighlighter",
     "brush",
